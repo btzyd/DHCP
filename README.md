@@ -1,6 +1,6 @@
-## PIP: Detecting Adversarial Examples in Large Vision-Language Models via Attention Patterns of Irrelevant Probe Questions
+## DHCP: Detecting Hallucinations by Cross-modal Attention Pattern in Large Vision-Language Mode
 
-This is a PyTorch implementation of the [DHCP paper](https://arxiv.org/abs/2411.18659).
+This is a PyTorch implementation of the [DHCP paper](https://arxiv.org/abs/2411.18659), which is accepted by ACMMM 2025.
 
 ## Preparing the environment, code, data and model
 
